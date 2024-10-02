@@ -1,4 +1,5 @@
-# Medical Image Denoising - Signal and Image Processing Lab
+# Signal and Medical Image Processing Lab  
+**Experiment 8: Medical Image Denoising**
 
 The homework focuses on applying various noise reduction techniques on medical images, such as MRI, which are often affected by Gaussian, Speckle, and other types of noise. Key methods include **median filtering**, **Gaussian smoothing**, **windowed averaging**, and **deconvolution** for restoring medical images.
 
