@@ -1,6 +1,7 @@
-# Homework 7 
+# Signal and Medical Image Processing Lab  
+**Experiment 7: Medical Image Filtering**
 
-This README provides an overview and instructions for completing the questions in HW7, which primarily focuses on image processing techniques using Fourier Transforms, filtering, and transformations in the frequency domain. 
+This README provides an overview and instructions for completing the questions in experiment 7, which primarily focuses on image processing techniques using Fourier Transforms, filtering, and transformations in the frequency domain. 
 
 ---
 
